@@ -1,6 +1,6 @@
 {
   "name": "corral",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Add, remove and update cloud-hosted packages defined in html markup",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
     "url": "https://github.com/filearts/corral/issues"
   },
   "browser": {
-    "cheerio": "./lib/cheerio"
+    "cheerio": "./lib/cheerio.js"
   },
   "dependencies": {
     "semver": "~2.2.1",
