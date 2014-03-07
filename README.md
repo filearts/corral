@@ -100,3 +100,7 @@ The package data response from the `packageLoader` passed into the corral constr
 ## Roadmap
 
 * Add support for `link[rel=import]` tags for Polymer support
+
+## Credits
+
+* @simpulton for the fantastic name and for constant good ideas
