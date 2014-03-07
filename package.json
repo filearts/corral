@@ -1,6 +1,6 @@
 {
   "name": "corral",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Add, remove and update cloud-hosted packages defined in html markup",
   "main": "index.js",
   "scripts": {
