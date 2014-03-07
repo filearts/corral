@@ -1,0 +1,37 @@
+{
+  "name": "corral",
+  "version": "0.1.0",
+  "description": "Add, remove and update cloud-hosted packages defined in html markup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filearts/corral.git"
+  },
+  "keywords": [
+    "package",
+    "manager",
+    "cdn",
+    "npm",
+    "browser",
+    "server"
+  ],
+  "author": "Geoff Goodman",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "f998f09441d98ceff7ebd0f5c6cbca1524c785de",
+  "bugs": {
+    "url": "https://github.com/filearts/corral/issues"
+  },
+  "browser": {
+    "cheerio": "./lib/cheerio"
+  },
+  "dependencies": {
+    "semver": "~2.2.1",
+    "promise": "~4.0.0",
+    "lodash": "~2.4.1",
+    "cheerio": "~0.13.1"
+  }
+}
